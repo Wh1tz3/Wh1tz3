@@ -1,62 +1,80 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,100:57F287&height=180&section=header&text=wht1z&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=deney,%20boz,%20anla,%20tekrar%20dene&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:5865F2,100:57F287&height=140&text=WHT1Z&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=deney%20%2F%20boz%20%2F%20anla%20%2F%20tekrar%20dene&descAlignY=68&descSize=16&descColor=e6e6e6" width="100%"/>
 
-<a href="https://github.com/wht1z">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=57F287&center=true&vCenter=true&width=500&lines=Farkl%C4%B1+dillerle+deney+yap%C4%B1yorum;Otomasyon+ve+sistemlerle+u%C4%9Fra%C5%9F%C4%B1yorum;Kodu+yaz%C4%B1p+bozmak+rutinimdir;Sonra+neden+bozuldu%C4%9Funu+%C3%A7%C3%B6z%C3%BCyorum" alt="Typing SVG" />
-</a>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=wht1z&color=0d1117&style=for-the-badge&labelColor=5865F2&label=PROFİL+GÖRÜNTÜLEME"/>
+<img src="https://img.shields.io/github/followers/wht1z?style=for-the-badge&color=0d1117&labelColor=57F287&label=TAKİPÇİ"/>
+<img src="https://img.shields.io/badge/DURUM-DENEY%20MODUNDA-0d1117?style=for-the-badge&labelColor=5865F2"/>
 
 </div>
 
 <br/>
 
-## 🧪 Ben kimim
-
-Tek bir projeye bağlı kalmak yerine fikri hızlıca koda dökmeyi tercih ederim.
-Farklı diller, otomasyon araçları ve sistemler üzerinde deneyler yaparım —
-bazen çalışır, bazen patlar. İkisi de aynı derecede öğreticidir.
-
-```
-while (fikir) {
-  kodla();
-  boz();
-  neden_bozuldugunu_bul();
-  ogren();
-}
-```
-
-<br/>
-
-## 🛠️ Kullandığım Araçlar
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,bash,linux,docker,git,vscode,github" />
-
-</div>
-
-<br/>
-
-## 📊 İstatistikler
-
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=wht1z&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=57F287&icon_color=5865F2&text_color=c9d1d9" height="160"/></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=wht1z&theme=dark&hide_border=true&background=0d1117&stroke=0d1117&ring=5865F2&fire=57F287&currStreakLabel=57F287" height="160"/></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wht1z&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=57F287&text_color=c9d1d9" height="160"/></td>
+<td width="100%">
+
+```
+┌─ hakkimda.js ────────────────────────────────────────────── 🔴 🟡 🟢 ─┐
+```
+
+```js
+const wht1z = {
+  odak: "sabit bir proje yerine sürekli deney",
+  yaklasim: ["fikri hızlıca koda dök", "çalıştır", "boz", "neden bozulduğunu çöz"],
+  ilgi_alani: ["farklı diller", "otomasyon araçları", "sistemler"],
+
+  rutin: function () {
+    while (true) {
+      this.kodla();
+      this.boz();     // her zaman planlı değil
+      this.anla();
+      this.tekrarla();
+    }
+  },
+};
+```
+
+```
+└────────────────────────────────────────────────────────────────────┘
+```
+
+</td>
 </tr>
 </table>
 
-</div>
-
 <br/>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=wht1z&color=5865F2&style=flat&label=Profil+G%C3%B6r%C3%BCnt%C3%BClenme)
+### 🧰 Araç Kutusu
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,bash,linux,docker,git,vscode,github&theme=dark" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:57F287,100:5865F2&height=100&section=footer" width="100%"/>
+<br/>
+
+<table width="100%">
+<tr>
+<td width="34%" valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=wht1z&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=57F287&icon_color=5865F2&text_color=c9d1d9&hide_rank=false" width="100%"/>
+</td>
+<td width="33%" valign="top">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wht1z&theme=dark&hide_border=true&background=0d1117&stroke=0d1117&ring=5865F2&fire=57F287&currStreakLabel=57F287" width="100%"/>
+</td>
+<td width="33%" valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wht1z&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=57F287&text_color=c9d1d9" width="100%"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wht1z&theme=react-dark&bg_color=0d1117&color=57F287&line=5865F2&point=ffffff&hide_border=true" width="100%"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:57F287,50:5865F2,100:0d1117&height=90&section=footer" width="100%"/>
