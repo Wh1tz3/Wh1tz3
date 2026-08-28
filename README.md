@@ -41,14 +41,13 @@ while (fikir) {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wht1z&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=57F287&icon_color=5865F2&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wht1z&theme=dark&hide_border=true&background=0d1117&stroke=0d1117&ring=5865F2&fire=57F287&currStreakLabel=57F287" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wht1z&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=57F287&text_color=c9d1d9" height="165"/>
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=wht1z&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=57F287&icon_color=5865F2&text_color=c9d1d9" height="160"/></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=wht1z&theme=dark&hide_border=true&background=0d1117&stroke=0d1117&ring=5865F2&fire=57F287&currStreakLabel=57F287" height="160"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wht1z&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=57F287&text_color=c9d1d9" height="160"/></td>
+</tr>
+</table>
 
 </div>
 
