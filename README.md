@@ -4,10 +4,7 @@
   <b>Computer Engineering Student · Developer · Builder</b>
 </p>
 
-<p align="center">
-  <sub>PROFILE VIEWS</sub><br>
-  <img src="https://komarev.com/ghpvc/?username=WH1TZ&style=for-the-badge&label=&color=161b22" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=WH1TZ&style=for-the-badge&label=PROFILE%20VIEWS&color=161b22" />
 
 ---
 
