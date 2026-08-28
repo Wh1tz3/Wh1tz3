@@ -24,21 +24,24 @@
 
   <br />
 
-  <!-- Tech Stack Grouped -->
-  <p>
-    <code>Languages & Scripting</code><br/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-  </p>
-  <p>
-    <code>Systems & Hardware</code><br/>
-    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" />
-    <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-  </p>
+  <!-- Tech Stack Grid -->
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <div align="center">
+      <code>Languages & Scripting</code><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+    </div>
+    <br/>
+    <div align="center">
+      <code>Systems & Hardware</code><br/><br/>
+      <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" />
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+    </div>
+  </div>
 
   <br />
 
@@ -49,18 +52,25 @@
   <hr width="60%" color="#2A2F3A" />
   <br />
 
+  <!-- Detailed Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wh1tz3&theme=tokyo-night&hide_border=true&area=true" width="94%" />
+
+  <br /><br />
+
   <!-- Stats Grid -->
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=wh1tz3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7" width="48%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wh1tz3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7" width="45%" />
   </p>
 
-  <!-- GitHub Streak -->
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wh1tz3&theme=tokyonight&hide_border=true&background=0D1117" width="94%" />
-  </p>
+  <!-- GitHub Contribution Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wh1tz3/wh1tz3/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wh1tz3/wh1tz3/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/wh1tz3/wh1tz3/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 
-  <br />
+  <br /><br />
 
   <!-- Visitor Counter -->
   <img src="https://komarev.com/ghpvc/?username=wh1tz3&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="wh1tz3 views" />
