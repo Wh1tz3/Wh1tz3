@@ -5,10 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/WH1TZ">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=WH1TZ&style=flat-square&color=000000">
+  <sub>PROFILE VIEWS</sub><br>
+  <img src="https://komarev.com/ghpvc/?username=WH1TZ&style=for-the-badge&label=&color=161b22" />
 </p>
 
 ---
