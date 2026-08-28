@@ -1,33 +1,44 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=200&section=header&text=wh1tz&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <!-- Twinkling Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=180&section=header&text=thewh1tz&fontSize=60&fontColor=ffffff&animation=twinkling&desc=System%20Tinkerer%20%7C%20Code%20Breaker&descAlignY=70&descAlign=62" width="100%" />
+
+  <br /><br />
 
   <!-- Dynamic Typing Effect -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=1000&color=7AA2F7&center=true&vcenter=true&width=500&lines=Building+tools+%26+experimental+scripts;Tinkering+with+systems+%26+hardware;It+works+on+my+machine...+" alt="Typing SVG" />
   </a>
 
-  <br />
-
-  <!-- Minimal Bio & Tags -->
-  <p align="center">
-    <code>System / Automation / Scripting / Hardware</code><br/><br/>
+  <!-- Minimal Bio -->
+  <p>
     Farklı diller, otomasyon araçları ve sistemler üzerinde deneysel projeler geliştiriyorum.<br/>
     Kodu yazıp bozmak, sonra da arka plandaki mantığı çözmek genel rutin sayılır.
   </p>
 
+  <!-- Social Badges -->
+  <p>
+    <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+    <a href="https://github.com/wh1tz3"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
+
   <br />
 
-  <!-- Tech Badges -->
-  <div>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  </div>
+  <!-- Tech Stack Grouped -->
+  <p>
+    <code>Languages & Scripting</code><br/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  </p>
+  <p>
+    <code>Systems & Hardware</code><br/>
+    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" />
+    <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+  </p>
 
   <br />
 
@@ -51,7 +62,12 @@
 
   <br />
 
-  <!-- Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b26&height=100&section=footer" width="100%" />
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=wh1tz3&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="wh1tz3 views" />
+  
+  <br /><br />
+
+  <!-- Footer Line -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:bb9af7,50:7aa2f7,100:1a1b26&height=15&section=footer" width="100%" />
 
 </div>
